@@ -12,7 +12,7 @@
 - [ ] Maak het volgende voorbeeld na met behulp van HTML. Gebruik hiervoor de elementen uit de vorige labo's, en zoek op hoe je gebruik maakt van de elementen `video`, `audio` en `iframe`.
 - [ ] Gebruik voor video volgende links:
 
-  - [<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">] `<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">`
+  - [ ] `<source src="https://www.w3schools.com/html/mov_bbb.mp4" type="video/mp4">`
   - [<source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">] `<source src="https://www.w3schools.com/html/mov_bbb.ogg" type="video/ogg">`
 
 - [ ] Gebruik voor audio volgende links:
